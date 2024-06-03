@@ -1,3 +1,5 @@
+Case study provided by Data Camp.
+
 Hotel Operations
 LuxurStay Hotels is a major, international chain of hotels. They offer hotels for both business and leisure travellers in major cities across the world. The chain prides themselves on the level of customer service that they offer.
 
